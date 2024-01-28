@@ -1,0 +1,120 @@
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ProjetoFinal.exe
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ProjetoFinal.deps.json
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ProjetoFinal.runtimeconfig.json
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ProjetoFinal.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ProjetoFinal.pdb
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\Google.Protobuf.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\MySql.Data.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\System.Text.Json.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.vbproj.AssemblyReference.cache
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.APacienteSilenciosa.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.BaladaPassaros.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Comedia.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Comprar.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.ContodeFadas.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Desista.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Fantasia.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Form1.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.HolyCow.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Idiota.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.IstoAcabaAqui.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.LivrodaNoite.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Lixo.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Login.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.MindHunter.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.MorteSuspeita.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Resources.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.OIntruso.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.OReino.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.ORetiro.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Policial.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Romance.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Stalker.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.TalvezUmDia.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.TudoOQueSei.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.UmSonho.resources
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.vbproj.GenerateResource.cache
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.AssemblyInfo.vb
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.vbproj.CoreCompileInputs.cache
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.vbproj.CopyComplete
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\refint\ProjetoFinal.dll
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.pdb
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.genruntimeconfig.cache
+C:\Users\sofia\Desktop\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ref\ProjetoFinal.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ProjetoFinal.exe
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ProjetoFinal.deps.json
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ProjetoFinal.runtimeconfig.json
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ProjetoFinal.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ProjetoFinal.pdb
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\Google.Protobuf.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\MySql.Data.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\System.Text.Json.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\bin\Release\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.vbproj.AssemblyReference.cache
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.APacienteSilenciosa.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.BaladaPassaros.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Comedia.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Comprar.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.ContodeFadas.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Desista.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Fantasia.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Form1.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.HolyCow.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Idiota.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.IstoAcabaAqui.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.LivrodaNoite.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Lixo.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Login.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.MindHunter.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.MorteSuspeita.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Resources.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.OIntruso.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.OReino.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.ORetiro.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Policial.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Romance.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.Stalker.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.TalvezUmDia.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.TudoOQueSei.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.UmSonho.resources
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.vbproj.GenerateResource.cache
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.AssemblyInfoInputs.cache
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.AssemblyInfo.vb
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.vbproj.CoreCompileInputs.cache
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.vbproj.CopyComplete
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\refint\ProjetoFinal.dll
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.pdb
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ProjetoFinal.genruntimeconfig.cache
+C:\Users\sofia\Desktop\Dor de Cabeça\Formações\Programador Informatica\! 3934_Programação em Visual Basic NET\ProjetoFinal\ProjetoFinal\obj\Release\net6.0-windows\ref\ProjetoFinal.dll
